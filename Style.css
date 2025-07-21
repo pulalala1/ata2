@@ -1,0 +1,37 @@
+body {
+    background: #fdfdfd;
+    font-family: system-ui, sans-serif;
+    color: #222;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.container {
+    max-width: 600px;
+    text-align: center;
+}
+.symbol {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.manifest {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+.button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #222;
+    color: white;
+    border-radius: 5px;
+}
+.footer {
+    margin-top: 40px;
+    font-size: 12px;
+    color: #666;
+}
